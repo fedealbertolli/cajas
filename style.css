@@ -1,0 +1,17 @@
+body{
+background-color: rgb(80, 150, 255);
+}
+
+.cuadrado{
+    height: 120px;
+    width: 120px;
+    background-color: rgb(250, 250, 250);
+    border:  10px black solid  
+
+}
+button{
+    background-color: rgb(255, 255, 255);
+    border: 10px;
+    margin: 10px 5px;
+    padding: 10px;
+}
